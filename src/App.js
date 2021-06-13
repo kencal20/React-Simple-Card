@@ -1,4 +1,4 @@
-import Card from './Card'
+import Card from './card-components/Card'
 import './App.css';
 
 function App() {
